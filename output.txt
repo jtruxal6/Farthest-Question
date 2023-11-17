@@ -1,0 +1,420 @@
+set 0
+0 What is the name of the inventor of the type of lock on the front door shown in the video?
+1 What's the best selling product of the company that manufactures the party mix seen in the video?
+2 What is the name of the device commercially produced to assist individuals with communication like the one used by Miranda in this video?
+3 What's the name of the inventor of the Golding Jobber number 8 Letterpress seen in the video?
+4 What is the principle theme of the 3D photography exhibition 3D Photo Works is preparing for, as discussed in the video?
+5 What is the height of Mia, the person on screen in the video?
+6 What is the most common type of refrigerant used in HVAC units?
+7 What is the full form of KBCN mentioned in the video, and for what primary usage was it first developed?
+8 What is the expected growth rate for managed service provider companies like La Tech Advisors in the coming year?
+9 What's the name of the founder of the company that produced the VR device shown at the timestamp in the video?
+10 What is the force of the explosion when a TNT cannon is fired in the game as shown in the video?
+11 What's the leading manufacturer of the prosthetics similar to the one used in the video?
+12 What is the full form of VCR that is shown in the video and when was it first introduced?
+13 What are the common substances used as refrigerants in HVAC systems?
+14 What is the most commonly used gas for cooling in HVAC systems?
+15 What is the name of the device used in Braille transcription that might be of use to the interviewee?
+16 What is the birth date of the inventor of the technology used to erase everything in the video?
+17 Based on the gear worn by the man drilling the pipe at 85.843 mark, in which country is this oil rig likely located?
+18 Considering the commonly sold shoe sizes, what could be the approximate size of the sneaker Marcel is seen next to considering he is the size of a golf ball?
+19 What kind of pills are these in the video that can figuratively transform people from three dimensions to two?
+set 1
+0 Who is the fashion icon that popularized the brown vest and hat as worn by Jake in the video?
+1 How many miles in diameter is the spaceship painted on the hood of the van, according to Star Trek's official website?
+2 What year was the unique pattern on the woman's shirt added to men's fashion collection by a notable French fashion designer?
+3 What is the brand of the suit worn by the Rebecca Sims in the video that also sponsored a major sporting event in 2016?
+4 What award did The Ultimate Guide to Sex and disability win in literature, which is shown in the video?
+5 What was the year of publication of the book The Ultimate Guide to Sex and Disability, read by the host in the video?
+6 the birthstone of the month which the fashion week, where the dress Whitney is showing, was first introduced?
+7 What is the name of the current CEO of the brand that made the jacket wore by the last model in the video?
+8 is the name of a popular novel that was translated to the language the boy is writing, in the year the older woman began her teaching career?
+9 What year was the organization founded that works towards the stigma which the woman walking down the street in the video helps to fight against?
+10 Who is the founder of the Nike brand that the girl in the video is wearing?
+11 Who is the current world champion of the sport that Jonathan is simulating with the apple?
+12 Who is the most prolific racer on the type of racetrack being worked on in the video?
+13 What year was the red sweater, as worn by the woman on screen, a popular fashion item?
+14 Who is the author of the book published the same year the mechanism referenced in the video was patented?
+15 What is the name of the bridge visible in the background as Endeavor is moved on a vehicle with "Tundra" written on the side?
+16 Who was the author of the first known book which used the type of calendar held by the teenager?
+17 Who typically wears the type of women's pants suit shown in the video?
+18 Who is the designer of the deep V cut silver leotard worn by Dennis and Terry?
+19 What could be the symbolism of squashing the cake in the silent movie, considering the common themes and symbols in 1920s silent films?
+set 2
+0 What's the scientific name for the behavior of the dog trying to catch the bothersome fly?
+1 What is the name of the bird that Anna's favorite toy in the show 'Frozen' is named after and also of which, the toy in the video is designed?
+2 What is the name of the capital city in Zimbabwe where a breed of lion similar to Simba was first discovered?
+3 What is the Latin name for the type of bird that Simon's cat is playing with?
+4 What type of bird is "Paloma," seen at 187.260909 in the video?
+5 What is the scientific name of the bird species that shares Carl's interest as he works at the zoo?
+6 What kind of bird is heard chirping in the background of the video, based on its call?
+7 What is the scientific name of the animal whose skin Paco's bandages are made of?
+8 What is the scientific name of the bird species that inhabits the region in India, whose sound resembles the security guard's shocked expression in hertz?
+9 What is the scientific name of the species that Bert and Ernie belong to, given the common name of the color of Bert's hat?
+10 What is the most common species of fish found in the kelp forest tank in the video?
+11 What is the scientific name of the animal that occupies the same ecosystem as the extinct Golden toad and is now critically endangered?
+12 What is the name of the endangered species that occupies the same habitat as the now extinct New Zealand Bush Wren?
+13 What is the scientific explanation behind the reflex of the cat to jump on the sink?
+14 What is the average weight of the species of bird that can typically be found in the type of high school quad shown at the beginning of the video?
+15 What is the breed of the dog whose picture is on the letter Jimmy takes out from his envelope?
+16 What's the scientific name of the species that lions typically prey on?
+17 What is the scientific name of the bird species Daffy Duck is based on?
+18 What is the scientific name of the species that Simon's cat belongs to?
+19 Which country is the native habitat of the animal that resembles the one represented in logo seen in this video and what's its national dish?
+set 3
+0 What's the world record for the most affordable watch similar to the one received by the woman in the video?
+1 Which phonetic word that symbolizes peaceful communication in NATO phonetic alphabet shares its name with the color of the dress that the daughter is wearing?
+2 What time period the traditional clothing and the setting of the video suggest for the scene of the blind woman playing erhu on the streets of Beijing?
+3 What was the name of the spacecraft that inspired the science learning mentioned at 449.213144 min in the video?
+4 What is the world record for the longest dance marathon, akin to Peter’s mentioned activity in the video?
+5 What's the world record for fitting the most board games inside a blue bin similar to the one in the video?
+6 What do the patterns on the woman's clothes signify in their country of origin?
+7 What is the name of the consultancy that was created by LGBTQ+ people of color in the Midwest in 2018?
+8 How does Simon's display of speed correlate with the world record of sprint speed, held by Usain Bolt?
+9 What's the origami world record for the largest sailboat similar to the one made in the video?
+10 What does the Latin phrase written in the old tome found in the library of the Lessie Bates Davis Neighborhood House translate to in English?
+11 Which psycho-social theory best explains why the man feels guilty after seeing the disabled district collector?
+12 What is the ballet term for the lift Nina performs with the male dancer, based on the arm and body positioning during the lift?
+13 What is the name of the spell cast by Merlin on the magic mirror that is seen at the 315.82002 timestamp?
+14 What's the world record for the longest headstand similar to what two women are doing in the video?
+15 What's the current world record for the maximum numbers of chest presses done by a father using his daughter's weight like in the video?
+16 What is the name of the famous origami artist who popularized the origami cup design similar to the one made in the video?
+17 What's the world record for holding the surrender pose exercise as demonstrated by Mike?
+18 How is the color pattern on Jake's long-sleeve maroon, black, and white shirt serving as a symbolic gesture in certain cultures?
+19 What is the Venetian parade called which features similar elaborate uniforms as worn by the young and old men?
+set 4
+0 Given the reference to "a kid, a burger, a request," what kind of request is Orion making in the video?
+1 What is the average hourly wage of the occupation in which Christian is preparing himself by studying?
+2 What series or brand is the pencil Steven uses in the video?
+3 What are the common programs or industries that students assisted by Workforce Solutions engage in?
+4 How many such brick buildings exist on the university campus, based on a standard campus map?
+5 What is the employment rate for graduates of Aviation Maintenance Technology programs?
+6 What is the name of the school mascot of UWF?
+7 What technology powers bus benches in the city of Los Angeles like the one the woman sits on at the beginning?
+8 Could the shell-based weaponry used by the knights in the video be an effective real-world combat strategy?
+9 What is the average salary of a therapist in the state where Colorado State University is located?
+10 What is the highest salary reported by PayScale for the profession that Amanda is studying?
+11 What is the mission of the California Foundation for Independent Living Centers?
+12 What is the average salary of a biochemistry major in the U.S where Peter resides?
+13 What is the average salary of a person in the career field Jenna is studying for?
+14 What is the average starting salary for a Junior HDFS student in a first-generation college setting?
+15 What kind of industrial processes take place in basements similar to where Ronnie stands, as described in the video?
+16 What type of tablet is seen in the video and who is the manufacturer?
+17 What is the average annual salary for a Montana University Accounting and Marketing graduate?
+18 What is the mascot of UC Berkeley, based on the team spirit displayed at the charity event?
+19 What kind of gun, used in American Civil War, can be compared with the one a man shoots in the video?
+set 5
+0 What is the second highest music-related award Drake has won, as seen in his trophy room in the video?
+1 How many songs does a full performance of Hamilton consist of?
+2 Which composer's work, known for creating music about nature, fits the opening setting of the movie?
+3 Has the actor playing Diego in the movie won any international award?
+4 Has the actor playing the officer in this scene won any awards for his role in Breaking Bad?
+5 What movie did the actor playing the husband last star in?
+6 According to the official Marvel timeline, during which year does the recruitment scene takes place?
+7 What year did the actor who played Captain Hook in the original Disney film die?
+8 Has the voice actor of Rex ever won an Emmy award?
+9 Which character in this episode of Riverdale was played by an actor who previously starred in a soap opera?
+10 In which of the Sherlock Holmes books does Dr. Watson marry that might be portrayed in an episode hinted at the end of this video?
+11 How old was the musician reading the mean tweet in the Jimmy Kimmel Live episode when they first started their career?
+12 What were Denzel Washington's children's ages at the time the video was made?
+13 Who is the main actor starring in the movie they mentioned at 42.695?
+14 Who directed the movie mentioned at 42.695?
+15 Who is the known music artist behind a song titled like the yellow toy in the video?
+16 How old was Michael Jackson when the 'Thriller' music video was released?
+17 Who is the director of the movie where the song Campostella musica, mentioned in the video, was first introduced?
+18 Who is the record producer of the song "Campostella Musica" mentioned in the video?
+19 What's the award that the fundraising actor Michael has ever won?
+set 6
+0 What is the average lifespan of a tree in the forest shown in this video?
+1 What's the chemical property that gives the web, seen at the beginning of the video, its strength?
+2 What is the average lifespan of the plant that gets stepped on by the man before being hit by the train in the video?
+3 What's the name of the machine that was first used to discover the heaviest element currently in the periodic table shown in the video?
+4 What is the number of cilantro varieties on a planet from a 2010 scientific report and which has been used by Laura in this video?
+5 What is the life expectancy of the Palm tree seen in the beginning of the video?
+6 What is the average lifespan of the kind of palm tree shown in the video?
+7 What is the scientific name for the primary source of energy shown in this video?
+8 What is the average growth rate per year of the type of tree seen in the video?
+9 What is the average lifespan of a redwood tree like those seen in the background at UC Santa Cruz?
+10 What is the chemical symbol for the primary gas that's affecting the growth of the plant we see growing in this video?
+11 What is the average life span of the flowering plant being watered in the video?
+12 What is the molecular structure of the most common type of toxin found in the specific type of berry mentioned in the video?
+13 What is the average lifespan of the tree with the brown bark that matches the one shown in one of the PowerPoint slides?
+14 What is the average lifespan of the type of palm tree shown in the 'beach scenery' scene?
+15 What is the average lifespan of the type of tree visible on one of the pallets behind Mike, assuming the tree is an indoor plant?
+16 What is the survival rate of a coconut tree in New York, the city where Koko's is located, as mentioned in the video?
+17 What is the average lifespan of the type of tree the bulldozer knocks down in the video?
+18 What is the average number of palm trees in a park in the city where this video was filmed?
+19 What is the average lifespan of the type of palm tree seen at the start of the video?
+set 7
+0 What is the average height of the type of podium used by the lifeguard in the scene?
+1 According to safety regulations, what is the recommended maximum height for cribs like the ones in the infant room featured in this video?
+2 What is the height limit for a slide in a playground like the one Sally stands in front of?
+3 In recycling, what is the usual process for plastic containers like the one taken in the video when they reach the end of their usable lives?
+4 What is the safety standard for the distance between a slide and a wall as seen in the video?
+5 What is the global average value for electricity consumption per household, an element that seems to be a key theme in the video given the sparks and flashes seen multiple times?
+6 What is the age limit for zip-lining at Hydro Adventures with respect to the people in the video?
+7 What is the safest type of flooring material commonly used in gymnastics facilities like the one shown in the video?
+8 How many of the Kardashians can fit in 6-person's suite based on their height?
+9 What is the average processing time for a typical CDR by Engineers Australia?
+10 What's the most commonly used material for constructing a kayak in the video, how is it obtained, what are its properties, and from where in the world did it originate?
+11 How often should the water in public pools, like the one in the video, be changed to maintain hygiene?
+12 What is the average weight of a common furniture item that shares common features with the "seat" that barges into Virgil's room?
+13 What's the international regulations on the size and design of identification numbers held by suspects in a police lineup like in the video?
+14 type of crystal lattice structure does the blue crystal grown in the video belong to?
+15 is the crystal system of the substance from which the blue crystal in the video is formed?
+16 type of bond holds together the atoms in the crystal formed in the video?
+17 According to OSHA, what specific training should janitors have to handle cleaning fluids like those in the white plastic bottles shown in the video?
+18 How often should the yellow sponges and green scratch pads shown in the video be replaced to avoid contamination?
+19 What is the number of attractions in the amusement park that first introduced the rules for minimum height for riders, as seen in the video?
+set 8
+0 What significant public building was made accessible for individuals like the student in this video in the year 1990?
+1 What historical event took place in the year the typewriter was invented, shown in Dad's office?
+2 In what year was the formal study introduced at universities of the subject that is being focused on in this video?
+3 In what city was the first academic conference on the influence of societal characteristics on personal traits, as discussed in the video, held?
+4 Was there any solar eclipse that occurred on 18th of April 2002, the day this video was captured?
+5 Which famous optical illusion that tricks our perception of color and shape was first presented in the same century when the color and shape categorizing theory being practiced in the video was established?
+6 What historical event in the world of diversity and inclusion happened in the city where the Inclusion Summit, as alluded to in the video, took place?
+7 In which country was the machine that the boy is practicing on, originally invented?
+8 Which court case led to the legalisation of same-sex marriage in the USA, as per the discussion in the video?
+9 What year was the style of the chair Phyllis is sitting in, first introduced?
+10 Which mechanical device first introduced in the Industrial Revolution is being used to mix the cheese in this video?
+11 What historical event involving people with disabilities happened in 2016 at the institution whose logo appears in the video?
+12 Which company became a publicly traded company in the year when the nvda screen reader was initially released?
+13 In what year was the patent filed for the technology that makes the blind man's glasses function?
+14 How many countries were founding members of the United Nations, as seen in the "propaganda posters for the United Nations" scene?
+15 How long was the longest recorded game of monopoly, considering the game pieces that the light bulb filament turned into?
+16 What technological breakthroughs were achieved in stage lighting the year this concert took place?
+17 is the year when the company, whose logo appears in the video, was founded?
+18 What important event was held in the year 1923 at the UC Berkeley Memorial Stadium that shared similarities with the event in the video?
+19 During which historical event did the meeting of leaders of Japan, China, and South Korea take place?
+set 9
+0 What dog training method was used to condition James's response to the finger on the nose gesture, which caused him to lay down motionless?
+1 At what age do golden retrievers typically reach full growth?
+2 What type of dog most closely resembles "Simon's sister's dog" in size and color?
+3 What is the average weight of the dog breed depicted at 386.035 seconds mark?
+4 What is the average lifespan of the dog breed depicted at 386.035 seconds mark?
+5 Can you name a cat behaviorist who might assist if Simon's cat continues to misbehave like in the video?
+6 Given the mischievous nature of Simon's cat in the video, what kind of training methods could Simon use?
+7 How are dogs like Harry commonly trained to stop digging?
+8 What are the training guidelines for a dog of Barclay's breed to get along with ducks?
+9 Based on the ducks' reaction to the loud sound, what can be inferred about their stress levels and overall wellbeing?
+10 From Barclay's behaviour, can we infer that he perceives the ducks as pack members or as a dominant figure in the relationship?
+11 How does Barclay's reaction to the ducks compare to typical behaviours observed in dogs when they encounter birds?
+12 Given the apparent bond between Barclay and the ducks, how would separation potentially affect their mental health, according to animal behaviourists?
+13 How does Barclay's bond with the ducks reflect on his breed's temperament and known behavioural traits?
+14 What is the height of the ledge Tiffany's cat is peering over from, relative to the average height of her breed?
+15 What's the maximum height that the most frightful cat among the three can jump?
+16 What's the scientific name of the creatures depicted in the painting "Santa Fe Friends"?
+17 If the man feeding the cat in the video is a professional pet sitter, how much could he potentially earn in a year if he feeds 10 cats daily and charges $5 per feeding session?
+18 If the cat sitter feeding the cat food in the video is doing this as a charity, what tax breaks could he be eligible for in the US?
+19 Why do some dogs prefer certain colors of toys?
+set 10
+0 What is the title of a famous poem that includes imagery similar to the starting scene of the video?
+1 What is the genre of a popular movie titled "Tooth Fairy," in reference to the Tooth Fairy letter field shown in the video?
+2 What animal is referenced in a popular idiom that reflects the surprising scene of a baby bird pulling out of its shell?
+3 Who is the author of the poem that likens loneliness to the state of the creature Eliza wishes to rescue?
+4 What is the name of a Harlem Renaissance poet who wrote about staircases, much like the one featured in the video?
+5 What is the title of a famous book by Dr. Seuss that was written as a satire of staircases much like the one in the video?
+6 What is the title of the novel featuring a plot around a samurai sword like the one seen in the video, and who is its author?
+7 What is the name of the popular television game show that used a giant lightbox and transparent shapes similar to the one used by the teenager in the video, first aired in a country which has the world's largest railway platform?
+8 What is the primary dialect spoken in the region where the artist of George Washington crossing the Delaware, displayed in a tactile print in the video, was born?
+9 What's the latitude and longitude of the location that inspired the setting of the painting George Washington crossing the Delaware, displayed in 3D tactile version in this video?
+10 What's the average annual rainfall of the place where the original George Washington crossing the Delaware painting, shown in a 3D print in the video, is displayed?
+11 What year was the museum built that currently houses the original painting of George Washington crossing the Delaware, shown in a tactile print in the video?
+12 Who is the author of the famous piece of literature that portrays the encounter between Europeans and Native Americans, similar to what is shown in the video?
+13 What's the name of the well-known decorator who popularized the use of such lamps in interior design?
+14 What's the name of the novel about an artist who creates work from recycled materials, in a manner similar to that of the sign making at Artreach Studios?
+15 What literature piece best represents the dissected animal that Lady Bird is sitting across?
+16 What are the various elements included in the 3D tactile version of the "George Washington crossing the Delaware" painting?
+17 What Nobel Prize-winning chemist’s work helps explain the reaction that happened in the video, and what was the revolutionary concept they introduced?
+18 From what kind of wood, typically found in buildings with the same color as the highlighted parts of the pyramid, are Stradivarius violins famously crafted?
+19 What is the name of the popular song that features the words 'notebook' and 'prom' in its lyrics, much like the elements featured in this video?
+set 11
+0 What popular dessert from France shares similarities with the dish made in the video?
+1 Considering Eliza's desperation in this video, in which type of therapy is desperation mainly addressed?
+2 What is the name of the organization that administers the interpreter certification shown in use in the video?
+3 What is the capital city of the state that the real-life location of the 'abandoned site' Aly travels through within the video is based on?
+4 What is the capital of Pacific Ocean's largest island country?
+5 What is the title of the first Braille music score that the boy could potentially learn to play with after mastering the language he is learning to type?
+6 From the ending of the video, what might be the possible ways one could donate to the TDF Artisan Theater Initiative?
+7 Who was the person responsible for developing the concept of the type of learning being demonstrated by the adults in the green and black in the video?
+8 According to the World Health Organization, how many people globally need wheelchairs for mobility, like the young student in this video?
+9 What is the name of the capital of Sweden?
+10 During Abraham Lincoln's presidential tenure, which significant event occurred and how is it related to the video description?
+11 What could be the title of the video based on the context of the scenes and dialogues presented?
+12 According to World Health Organization, how many people are visually impaired worldwide similar to the students learning Braille in this video?
+13 What is the capital city of the Torrey Strait Island, where Dwayne worked previously?
+14 What is the official language spoken in the birthplace of the person who invented the type of calendar the teenager is studying?
+15 What is the official beverage of the country where the inventor of the type of calendar the boy is studying was born?
+16 Which legendary pastry chef invented the dessert soufflé, considering that the technique used to fold the crepes in the video is often seen in soufflé preparation?
+17 What iconic landmark is within a half mile radius from the Cheesesteaks by the Truffleist in New York City serving burgers topped with truffles and fried burrata?
+18 What's the name of the biggest toy company that manufactures a toy similar to what the student is playing with in the video?
+19 Which Italian city is famous for a sweet dish that also uses sweetened condensed milk and coconut, just like the Brazilian chocolate truffle recipe?
+set 12
+0 When did the brand of milk which is added into the recipe in this video start producing organic milk?
+1 What is the type of dish that the recipe in the video is a fusion of?
+2 What is the name of the scientist who discovered the bacteria that causes sourdough to rise used to pique the cookies in the video?
+3 What is the French term for the technique used to fold the flour into the butter mixture in this video?
+4 What's the harvest season for the green onions Linguini uses in the video?
+5 What is the name and nutritional value of the food item that Nora negotiates to purchase from another couple in the supermarket?
+6 What is the name of the technique Gordon Ramsay uses to crush the garlic?
+7 What are the top three exercises for improving arm strength, as attempted by the bears in the video?
+8 What are the health benefits associated with the activity the bears and the gym guide enter into, as seen in the gym segment in the video?
+9 How effective are the taichi exercises, as performed by ice bear and the gym guide in the video, for stress relief according to scientific studies?
+10 What is the French name for the cooking method that is used to prepare the butter in this video?
+11 What is the word in French for the utensil used to shape the cookies in the video?
+12 How fast a human heart may beat to pump the volume of Baja Blast consumed by Badland Chugs?
+13 How many potential consumers could share the volume of a Baja Blast consumed by Badland Chugs based on FDA daily sugar intake recommendation? 
+14 What is the Maillard reaction that causes the browning of the octopus corn dog in the video?
+15 How does the preparation of the flank steak in the video differ from a traditional Argentinian Asado preparation?
+16 What is the species of the animal that is the main ingredient in the dish the act in this video wipes off from the menu?
+17 What is the origin of the pistachios that were used for the third topping option in the recipe of the video?
+18 What is the origin of the type of tomato sauce used in the mini calzone recipe in the video?
+19 How many calories approximately can be burned by a 150lb person doing this exercise for 30 minutes?
+set 13
+0 What is the result of the work on 'Quantum Violation' explained by Mom?
+1 What is the deadliest merchandising disaster in history, relating to the "design merchandising field" mentioned in the video?
+2 What is the nylon content of the couch appearing in the video's background?
+3 What is the history of the Legacies project before 2012, referred to in the video?
+4 What is the meaning of the phrase written in the language that uses the same script as the letters on the balloon in the video?
+5 What festival is traditionally associated with the object that is being made in the video and where did it originate?
+6 How can the effect of the color of Matcha used in the recipe on a viewer's appetite be explained, as per color psychology?
+7 What was the leading cause of death in the 1950s in the USA, the decade that shares a similar style with the TV test card shown at the start of the video?
+8 Who is the author of the term 'disconnect' in the context of communication technology hinted at in the video?
+9 What is the color scheme used in the carpet seen in the video related to in art psychology?
+10 What is the meaning of the term 'Pattycake' that is a part of the production company's name shown in the video?
+11 What color represents clarity in the psychological theory associated with colors and critical thinking concepts depicted in the video?
+12 What is the birth country of the actor portrayed the character that popularized the phrase related to the orb blue color seen in the video?
+13 What is the name of the machine commonly used to melt copper pipes which is symbolically represented in the video?
+14 What is the title of the novel that uses the theme of memory uploading into servers, like the concept of 'server files and in memories' displayed in the video text?
+15 What is the discipline in applied linguistics that addresses the technique of using multiple versions of the same image that Maya's mother utilizes?
+16 In the field of Visual Perception, what is the term used for the strategy Maya uses to examine the large image?
+17 Based on the symbols seen on the button Batman pushes, what is the atomic number of the noble gas represented?
+18 What planet in the solar system is the closest in size to the home of these two martian characters?
+19 What's the study field that conducts research about the phone signal waves reaching Martians?
+set 14
+0 Which famous American author wrote a novel featuring a character who tames an eagle like the man in the video tames his bird?
+1 What infamous real-life murder case does the scene where the man bursts through the door mimic?
+2 Which children's book written by a Nobel laureate in Literature shares a similar scene to the 'parents reading to their child' in the video?
+3 Considering the descriptions, which famous couple from a classic novel does Carl and Ellie's relationship resemble the most?
+4 Which famous author wrote a story featuring a child in a wheelchair playing at a playground?
+5 Which famous artist illustrated a book featuring characters of the same species as the main character in this video, and won a prestigious international children's book award in 1959 for it?
+6 Name a children's book that was based on the polymer like the one created in the video?
+7 Which famous novel features a protagonist shunned by his own creations, similar to the sorrowful cloud?
+8 Which popular children's author wrote a book with a scene similar to the gymnasium activities depicted in the video?
+9 Who played the lead role in the most popular film produced the year Genji was born?
+10 What children's book published in the same year as the Miracle Worker film features a main character who also faces a physical challenge?
+11 Which famous piece of literature has a similar theme to the comic strip, specifically the need for both a subject and a verb to form a sentence?
+12 Which famous author wrote a novel where characters play a hand game similar to the one played by George and Leanne in this video?
+13 Which famous author has written a story involving the concept of "whispering" among children like in this video?
+14 What classic book features a scene similar to Jimmy's transformation but with a different fruit?
+15 Which Nobel Prize winning author penned a character inspired by children playing like the young boy in the video?
+16 What children's book published in 2010 uses a maroon chair as a central element in its story?
+17 Who was the lead actor in the film, released the same year Holly got admitted to college, which shares its title with the poem Meredith was reciting?
+18 Which classic work of literature features a scene involving a collection setup reminiscent of the one present in the Avenir Museum?
+19 What was the most popular book the year when the architect who designed a building similar to the one in the background of the video was born?
+set 15
+0 Which specific area in the middle pale yellow section of the cross-section is related to speech production?
+1 Which specific part of the brain involved in movement control is represented by the mustard yellow section she pointed to?
+2 If 'scared to read milk' is related to milk allergies, can you name a famous actor who suffers from a severe milk allergy?
+3 What type of tree produces the wood that the desk the woman is sitting at is made from, and it is native to the country that is the setting of a novel that won the Pulitzer Prize in 1995?
+4 What is the medical term for the motor skill being developed when William tosses his toys?
+5 What is the scientific term for the special eye condition Squidward suffers from caused by external suction?
+6 What is the medical term for Squidward's condition when his eyeballs pop out of his head?
+7 What is the unemployment rate in the industrial manufacturing sector in the region mentioned in the video?
+8 How is the advancement in technology helping in addressing unemployment in the high-tech industry as per the video?
+9 What is the scientific name for the behavior Kevin is showing by frequently pacing back and forth on stage?
+10 What university did the scientist who first discovered the function of the yellow section of the brain that the woman points to attend?
+11 What are the odds of a child like Ryan, with the given description, having light skin and white hair due to a specific genetic mutation?
+12 What is the name of the scientist who discovered the phenomenon which the toy in the video illustrates?
+13 What is the scientific term for the phobia which is studied by a health professional sharing the same name as Alex Lange Shaw?
+14 What is the scientific term for the reflex Peter demonstrates when he catches the ball unexpectedly?
+15 What is the average life expectancy in Australia for males with the same condition as Chris?
+16 What vegetable is symbolically represented for a day in the Tapped Out calendar that also is the national symbol of the country the stitch of fabric originated from, which is the same as that of the light blue colour of the young female student's dress?
+17 What is the medical term for the reflex that Andrew is demonstrating by sucking on his feet?
+18 Based on the video, two brothers are featured in a material, what is the most common age of onset for Schizophrenia, their diagnosed condition?
+19 What is the likelihood of a person with the same condition as Lewis to live independently as an adult?
+set 16
+0 What is the air dry time for laundry under the hot sun as depicted in the video? 
+1 What is the decibel level of the noise that would have caused the aliens to panic based on the most recent research on alien auditory levels? 
+2 What is the daily average temperature in July of the city where the designer of Mrs. Brady's dress in this video was born? 
+3 What’s the PH level of the soil preferred by the type of reeds captured in the video? 
+4 How much would the sack of potatoes that hit SpongeBob cost in Idaho, the U.S. state that produces the most potatoes?  
+5 Which region in France produces the same type of wine as Bolney Wine Estate specializes in, as seen in this video? 
+6 What type of soil, absent from England, is most conducive for growing the grapes used in wine production? 
+7 If the same amount of water drops as in the video were converted to liters, what would be the volume? 
+8 What is the most common type of meat used in the original version of the dish made in the video? 
+9 What is the average cooking time for meatballs of size shown at 77.14064415068054 seconds in this video? 
+10 What is the temperature required for drying acorn seeds as done by Autumn in the video? 
+11 What is the water content of the acorns used by Autumn in the video? 
+12 What nutrients from the acorns used by Autumn in the video are leached into the water during the straining process? 
+13 What is the exact ratio utilized in this video to make a perfect chocolate mixture for their recipe? 
+14 What are the bear's primary senses that it might be using to investigate the cage in the video?  
+15 What is the average retail price of the lollypop brand the guys are eating? 
+16 What's the typical weight of turkey legs as being shown in the video? 
+17 What is the average caloric burn for the types of exercises shown within the video? 
+18 What country is the most common source of the type of sweet chocolate used in this video? 
+19 What is the approximate weight of the ball that Beth pushes to Max, based on its apparent size and typical materials used for such balls? 
+set 17
+0 Who was the Chief Justice of the Supreme Court during the time the United States didn't show the film mentioned in the video?
+1 Who was the inventor of the cane that the unidentified blind man in the video is using?
+2 Who is the creator of the cartoon character shown on the toddler's snack pack in the video and in which year was this character created?
+3 Who is the inventor of the brand of the wheelchair the student is using in the video?
+4 Which country won the World Cup in the same year as the alcohol brand visible in the match Kevin was watching was established?
+5 Which U.S. president approved the design of the modern Great Seal of the U.S., shown in the video?
+6 Which Star Trek series first introduced the concept of "becoming mortal" as seen in this video?
+7 Who holds the patent for the design of the type of chair the boy is sitting on in the video?
+8 Who is the current CEO of the manufacturing company of the food items which cost exactly 5 I bucks?
+9 Who is the famous physicist that the lab evident in the video architecture is named after?
+10 Who was the leader of the four globe's most populous SCO states when the video was made?
+11 Who was the president of the U.S. when the washing machine model in the laundry image shown in the video was released?
+12 Who invented the piece of clothing whose name is similar to the menu clicked in the video?
+13 Who is the CEO of the company that makes the wheelchair the student in the video uses?
+14 Which notable international figure visited the Virgin Islands around the same time as the team featuring in the video?
+15 Who was the artist who made the first modern sculpture of a human head, similar to the one shown in the video?
+16 Who was the President of the United States when Jimmy Carter was photographed shaking hands with Fidel Castro in the video?
+17 Who was the President of the United States the year the ring in the video was made?
+18 How many countries were members of the Arab League at the time the video was made?
+19 Who was the president of the United Nations General Assembly at the time of the video's recording?
+set 18
+0 What is the name of the voice actress of the female lead character in the movie "Frozen" mentioned in this video?
+1 What is the full name of the character who becomes the superhero announced at the end of the video in the comic books?
+2 What is the release date of the Marvel comic in which Black Widow and Red Guardian first appeared together?
+3 What is the character that appears in the Happy Meal's origin story and, specifically, in what year and context was it first introduced?
+4 What is the name of the spin-off comic series featuring the villain character that appears last in the video?
+5 What is the primary mode of transportation in the film from which this video clip is taken?
+6 What is the birthplace of the actress who played a character named after the food that was splattered on John's face?
+7 What's the net worth of the actor who played the lead role in the 1997 film mentioned in the video?
+8 What is the first line of Diego's speech at Frida's exhibition in the movie?
+9 What is the name of the actress who provides the voice for the character 'Panda' in the original series, also seen in this video?
+10 What's the name of the actor who portrayed a version of the character, seen in the video, based on the comic series, in a 1966 American animated television series?
+11 What is the name of the artist who created the original "Maggie Simpson" character, a version of which this woman is crafting?
+12 What is the name of the actress who portrayed the villain represented by the lair shown in this video in its live-action version?
+13 What is the name of the actress who played the character Katniss in the films mentioned in the video?
+14 What is the name of the actress who plays Robin, mentioned in the video, in the series?
+15 What is the name of the actress who played a character named Sadie, who also appears in the video?
+16 What is the name of the character played by the actress who's blocking WC Fields' exit in this video in another film where they co-starred?
+17 What is the birthdate of the actress who played the wife of the character portrayed by the man in the Santa costume in the television series from where the shot is taken?
+18 What is the full name of the actress who played Mama Morton in the original Broadway production, a character mentioned in this video?
+19 What is the birth date of the actress who played Mama Morton in the movie "Chicago", a character referenced in this video?
+set 19
+0 What is the current party of the senator representing the state where the person Obama greets was born?
+1 How many years has Mike Girard been working in mission development at Beyond Vision?
+2 Considering the time indicated in the video, what could have been Steven's morning routine before the exam?
+3 What is the name of the University Rachel Bloom graduated from before starting her TV career?
+4 How many students, approximately, were there in Montclair State University in 2020, a university that displays a diverse community in the video?
+5 When did Meredith Prentice graduate from Colorado State University?
+6 Who was the first person to get the type of implant that's seen on the right side of the student in the video, and when did that happen?
+7 Where is the largest institution for blind people located, similar to the school in the video?
+8 What prestigious law school did Elyn Saks graduate from?
+9 Who won the 1997 World Series in the year the vanilla plant which makes the extract used in this recipe was first recorded?
+10 What university did Neha Paruppu get her PhD from?
+11 What is the nature of the relationship between the 'Chirp Microsystems' and the company that developed the flight simulator game shown in the video?
+12 What kind of career is Intuit promoting on their website in the video?
+13 Which government-formed commission oversees the use of techniques provided for deaf students, similar to the ones shown in this video?
+14 Based on the technology of the flying cars shown, in which decade might this futuristic cityscape be set?
+15 What is the title of the book written by the inventor of the plank exercise?
+16 Where is New York School for the Deaf, the school similar to where the digital material exploration method seen in the video be situated?
+17 What ancient human civilization is prominently associated with the geographical feature on which the choir stands in the video?
+18 How many buildings are there on the CSU campus shown in the video?
+19 How many model airplanes does the average enthusiast own in the country where the girl is from?
